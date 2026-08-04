@@ -1,68 +1,37 @@
-# Sales Transaction Analytics, Predictive Modeling, and Anomaly Detection Using Machine Learning
+# Sales Transaction Analytics Using Machine Learning
 
 ## Project Overview
-
-This project uses Machine Learning techniques to analyze sales transaction data, predict future transaction amounts, and detect unusual transactions.
-
----
-
-## Problem Statement
-
-Businesses generate large volumes of transaction data every day. Manual analysis is time-consuming and often fails to identify hidden trends or suspicious transactions. This project develops a Machine Learning solution to automate sales analysis, prediction, and anomaly detection.
-
----
-
-## Objectives
-
-- Analyze sales transaction data
-- Perform Exploratory Data Analysis (EDA)
-- Build predictive machine learning models
-- Compare multiple algorithms
-- Detect anomalous transactions
-- Generate business insights
-
----
+This project analyzes sales transaction data using Machine Learning and Power BI. It predicts transaction amounts, detects anomalies, and visualizes business insights.
 
 ## Technologies Used
-
 - Python
 - Pandas
 - NumPy
+- Scikit-learn
 - Matplotlib
 - Seaborn
-- Scikit-Learn
-- Jupyter Notebook
 - Power BI
 
----
+## Project Structure
+📂 Dataset
+📂 Graphs
+📂 Models
+📂 Notebook
+📂 Power BI
+📂 Report
 
 ## Machine Learning Models
-
-- Linear Regression
-- Decision Tree Regressor
 - Random Forest Regressor
-- Isolation Forest
+- Anomaly Detection
 
----
+## Power BI Dashboard
+Interactive dashboard with KPIs, charts, slicers, and sales analysis.
 
-## Folder Structure
-
-Dataset
-
-Notebook
-
-Images
-
-Models
-
-PowerBI
-
-Report
-
----
+## Results
+- Sales Prediction
+- Feature Importance
+- Anomaly Detection
+- Business Insights
 
 ## Author
-
-Dharshini G
-
-M.Sc Data Analytics
+Dharshini Gopi
